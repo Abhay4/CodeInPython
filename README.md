@@ -1,3 +1,3 @@
 # CodeInPython
 
-To Run this ```Python pong.py```
+To Run this ```python pong.py```
